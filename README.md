@@ -1,8 +1,8 @@
 # 👋 Hi! I'm Alexandru
 
-Passionate Web Developer with strong experience in WordPress, JavaScript, PHP, React, and front-end technologies.
+I’m a passionate Web Developer with hands-on experience in WordPress, PHP, JavaScript, React, HTML, CSS, and Bootstrap.
 
-I build clean, responsive, and performance-focused websites and web apps. Skilled in Git & GitHub for version control and collaboration. I value good communication, attention to detail, and problem-solving in every project I take on.
+I enjoy building functional, optimized, and user-friendly web solutions. I’m comfortable working with Git & GitHub for version control and team collaboration, and I bring a detail-oriented and problem-solving approach to every project.
 
 ## 🚀 Proiecte WordPress (live)
 
