@@ -23,8 +23,8 @@ More projects coming soon!✨
 
 Proiecte personale construite în cadrul cursurilor de JS, majoritatea disponibile și live:
 
-- 🎯 - 🎯 [Age Calculator in JS, HTML & CSS](https://palugaalexandru.github.io/age-calculator-js/) – simple calculator with dynamic buttons
-- 🗓 [Age Calculator](https://andrei-dev.github.io/age-calculator) – calculează vârsta în funcție de data introdusă  
+- 🎯 [Age Calculator in JS, HTML & CSS](https://palugaalexandru.github.io/age-calculator-js/) – simple calculator with dynamic buttons
+- 🗓  [Basic Calculator in JS, HTML & CSS](https://palugaalexandru.github.io/basic-calculator-js/) – calculează vârsta în funcție de data introdusă  
 - 🌦 [Weather App](https://andrei-dev.github.io/weather-app) – caută orașe și afișează vremea folosind API  
 - ⏰ [Timer](https://andrei-dev.github.io/timer) – timer cu start/stop/reset  
 - 🌗 [Dark Mode Toggle](https://andrei-dev.github.io/dark-mode-toggle) – comută între light și dark
