@@ -13,6 +13,8 @@ I enjoy building functional, optimized, and user-friendly web solutions. I’m c
 🔗 [MOBSOP - Online Shop](https://mobsop.ro/)
 🔗 [Irevelato - Magazin](https://irevelato.com/)
 
+More projects coming soon!✨
+
 🛠 Stack: WordPress • PHP • ACF • WooCommerce • Custom Theme/Plugin Dev
 
 ---
