@@ -36,6 +36,7 @@ Proiecte personale construite în cadrul cursurilor de JS, majoritatea disponibi
 ## 📫 Contact
 
 📧 palugaalexandrudaniel1990@gmail.com
+
 💼 [LinkedIn](https://www.linkedin.com/in/alexandru-paluga-398b3b1b2/)
 
 ---
