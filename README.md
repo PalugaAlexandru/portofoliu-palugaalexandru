@@ -1,1 +1,44 @@
-# portofoliu-palugaalexandru
+# 👋 Salut! Eu sunt Andrei
+
+Sunt Web Developer pasionat de WordPress și JavaScript, cu experiență în crearea de website-uri de prezentare, magazine online și funcționalități custom pentru clienți.
+
+## 🚀 Proiecte WordPress (live)
+
+🔗 [Site Fotograf - Prezentare](https://www.site-fotograf.ro)  
+🔗 [Magazin Online Handmade](https://www.handmade-shop.ro)  
+🔗 [Site Restaurant - Comenzi online](https://www.restaurant-client.ro)
+
+🛠 Stack: WordPress • PHP • ACF • WooCommerce • Custom Theme/Plugin Dev
+
+---
+
+## 💡 Proiecte JavaScript
+
+Proiecte personale construite în cadrul cursurilor de JS, majoritatea disponibile și live:
+
+- 🎯 [Calculator](https://andrei-dev.github.io/js-calculator) – interfață funcțională, calcule de bază  
+- 🗓 [Age Calculator](https://andrei-dev.github.io/age-calculator) – calculează vârsta în funcție de data introdusă  
+- 🌦 [Weather App](https://andrei-dev.github.io/weather-app) – caută orașe și afișează vremea folosind API  
+- ⏰ [Timer](https://andrei-dev.github.io/timer) – timer cu start/stop/reset  
+- 🌗 [Dark Mode Toggle](https://andrei-dev.github.io/dark-mode-toggle) – comută între light și dark
+
+🛠 Stack: HTML • CSS • JavaScript (DOM, API, Events)
+
+---
+
+## 🧠 În prezent
+
+📚 Învăț activ React și îmi extind cunoștințele de JavaScript prin proiecte practice.  
+🎯 Focus pe Front-End Development + aplicații mobile.
+
+---
+
+## 📫 Contact
+
+📧 andrei@email.com  
+🌐 [Site-ul meu](https://www.andreiweb.ro) *(dacă ai unul)*  
+💼 [LinkedIn](https://linkedin.com/in/andrei-dev) *(dacă ai)*
+
+---
+
+> 📝 Acesta este portofoliul meu online. Poți explora fiecare proiect din secțiunile de mai sus. Dacă vrei să colaborăm, scrie-mi!
