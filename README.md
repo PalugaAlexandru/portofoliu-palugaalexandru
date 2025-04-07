@@ -6,9 +6,12 @@ I enjoy building functional, optimized, and user-friendly web solutions. I’m c
 
 ## 🚀 Proiecte WordPress (live)
 
-🔗 [Site Fotograf - Prezentare](https://www.site-fotograf.ro)  
-🔗 [Magazin Online Handmade](https://www.handmade-shop.ro)  
-🔗 [Site Restaurant - Comenzi online](https://www.restaurant-client.ro)
+🔗 [Medical Events - Presentation](https://hcpevents.ro/)
+🔗 [StartUp Agency - Presentation](https://startupagency.ro/)  
+🔗 [Medical Clinic - Presentation](https://awdhaestmed.com/)
+🔗 [nZEBexpert - Online Shop](https://nzebexpert.ro/)
+🔗 [MOBSOP - Online Shop](https://mobsop.ro/)
+🔗 [Irevelato - Magazin](https://irevelato.com/)
 
 🛠 Stack: WordPress • PHP • ACF • WooCommerce • Custom Theme/Plugin Dev
 
