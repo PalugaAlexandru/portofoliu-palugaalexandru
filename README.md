@@ -1,6 +1,6 @@
-# 👋 Salut! Eu sunt Andrei
+# 👋 Salut! Eu sunt Alexandru
 
-Sunt Web Developer pasionat de WordPress și JavaScript, cu experiență în crearea de website-uri de prezentare, magazine online și funcționalități custom pentru clienți.
+Sunt Web Developer pasionat de WordPress, Javascript și React, cu experiență în crearea de website-uri de prezentare, magazine online și funcționalități custom pentru clienți.
 
 ## 🚀 Proiecte WordPress (live)
 
