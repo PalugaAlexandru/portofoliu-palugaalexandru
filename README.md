@@ -35,9 +35,8 @@ Proiecte personale construite în cadrul cursurilor de JS, majoritatea disponibi
 
 ## 📫 Contact
 
-📧 andrei@email.com  
-🌐 [Site-ul meu](https://www.andreiweb.ro) *(dacă ai unul)*  
-💼 [LinkedIn](https://linkedin.com/in/andrei-dev) *(dacă ai)*
+📧 palugaalexandrudaniel1990@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/alexandru-paluga-398b3b1b2/)
 
 ---
 
