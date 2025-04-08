@@ -19,7 +19,7 @@ More projects coming soon!✨
 
 ---
 
-## 💡 Proiecte JavaScript
+## 💡 Simple JavaScript Practice Projects
 
 Proiecte personale construite în cadrul cursurilor de JS, majoritatea disponibile și live:
 
