@@ -4,7 +4,7 @@ I’m a passionate Web Developer with hands-on experience in WordPress, PHP, Jav
 
 I enjoy building functional, optimized, and user-friendly web solutions. I’m comfortable working with Git & GitHub for version control and team collaboration, and I bring a detail-oriented and problem-solving approach to every project.
 
-## 🚀 Proiecte WordPress (live)
+## 🚀 WordPress Projects Portfolio (live)
 
 🔗 [Medical Events - Presentation](https://hcpevents.ro/)
 🔗 [StartUp Agency - Presentation](https://startupagency.ro/)  
