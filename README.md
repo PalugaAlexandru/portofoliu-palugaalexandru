@@ -26,7 +26,7 @@ Proiecte personale construite în cadrul cursurilor de JS, majoritatea disponibi
 - 🎯 [Age Calculator in JS, HTML & CSS](https://palugaalexandru.github.io/age-calculator-js/) – simple calculator with dynamic buttons
 - 🗓  [Basic Calculator in JS, HTML & CSS](https://palugaalexandru.github.io/basic-calculator-js/) – A simple calculator application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The app features a clean interface and real-time calculations
 - ⏰ [Timer](https://palugaalexandru.github.io/timer-js/) – timer with start/stop/reset button
-- 🌦 [Weather App](#) – caută orașe și afișează vremea folosind API
+- 🌦 [Weather App](https://palugaalexandru.github.io/weather-app/) – A simple and responsive weather application built with JavaScript. It allows users to search for any city and displays real-time weather data including temperature, weather condition, humidity, and wind speed. The app fetches data from a public weather API and updates the interface dynamically based on user input.
 - 🌗 [Dark Mode Toggle](#) – comută între light și dark
 
 🛠 Stack: HTML • CSS • JavaScript (DOM, API, Events)
