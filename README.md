@@ -30,6 +30,8 @@ Proiecte personale construite în cadrul cursurilor de JS, majoritatea disponibi
 - 🌗 [Dark Mode Toggle](https://palugaalexandru.github.io/dark-mode-toggle/) – A minimal JavaScript feature that allows users to switch between light and dark themes. It uses local storage to remember the selected theme across sessions, providing a better and personalized user experience.
 - ✊🖐✌ [Rock Paper Scissors Game](https://palugaalexandru.github.io/rock-paper-scissors-game/) – A classic game built with vanilla JavaScript. Users can play against the computer with real-time results and simple animations. Fun and interactive project showcasing event handling and basic game logic.
 
+More projects coming soon!✨
+
 🛠 Stack: HTML • CSS • JavaScript (DOM, API, Events)
 
 ---
