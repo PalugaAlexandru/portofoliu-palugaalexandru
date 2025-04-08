@@ -21,7 +21,7 @@ More projects coming soon!✨
 
 ## 💡 Simple JavaScript Practice Projects
 
-Proiecte personale construite în cadrul cursurilor de JS, majoritatea disponibile și live:
+Personal projects built during the JS courses, most of them available and live:
 
 - 🎯 [Age Calculator in JS, HTML & CSS](https://palugaalexandru.github.io/age-calculator-js/) – simple calculator with dynamic buttons
 - 🔢  [Basic Calculator in JS, HTML & CSS](https://palugaalexandru.github.io/basic-calculator-js/) – A simple calculator application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The app features a clean interface and real-time calculations
@@ -37,10 +37,10 @@ More projects coming soon!✨
 
 ---
 
-## 🧠 În prezent
+## 🧠 Currently  
 
-📚 Învăț activ React și îmi extind cunoștințele de JavaScript prin proiecte practice.  
-🎯 Focus pe Front-End Development + aplicații mobile.
+📚 I’m actively learning JavaScript and React, while continuing to grow my skills in Front-End Development with WordPress.  
+📱 I’m also exploring mobile app development for both Android and iOS platforms.
 
 ---
 
