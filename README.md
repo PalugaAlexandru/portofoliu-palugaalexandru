@@ -28,6 +28,7 @@ Proiecte personale construite în cadrul cursurilor de JS, majoritatea disponibi
 - ⏰ [Timer](https://palugaalexandru.github.io/timer-js/) – timer with start/stop/reset button
 - 🌦 [Weather App](https://palugaalexandru.github.io/weather-app/) – A simple and responsive weather application built with JavaScript. It allows users to search for any city and displays real-time weather data including temperature, weather condition, humidity, and wind speed. The app fetches data from a public weather API and updates the interface dynamically based on user input.
 - 🌗 [Dark Mode Toggle](https://palugaalexandru.github.io/dark-mode-toggle/) – A minimal JavaScript feature that allows users to switch between light and dark themes. It uses local storage to remember the selected theme across sessions, providing a better and personalized user experience.
+- ✊🖐✌ [Rock Paper Scissors Game](https://palugaalexandru.github.io/rock-paper-scissors-game/) – A classic game built with vanilla JavaScript. Users can play against the computer with real-time results and simple animations. Fun and interactive project showcasing event handling and basic game logic.
 
 🛠 Stack: HTML • CSS • JavaScript (DOM, API, Events)
 
