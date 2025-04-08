@@ -52,4 +52,4 @@ More projects coming soon!✨
 
 ---
 
-> 📝 Acesta este portofoliul meu online. Poți explora fiecare proiect din secțiunile de mai sus. Dacă vrei să colaborăm, scrie-mi!
+> 📝 See my CV here:: [CV](https://github.com/PalugaAlexandru/portofoliu-palugaalexandru/blob/main/Alexandru_Daniel_Paluga_CV_EN.pdf)
