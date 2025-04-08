@@ -52,4 +52,4 @@ More projects coming soon!✨
 
 ---
 
-> 📝 See my CV here:: [CV](https://github.com/PalugaAlexandru/portofoliu-palugaalexandru/blob/main/Alexandru_Daniel_Paluga_CV_EN.pdf)
+> 📝 See my CV here:[CV](https://github.com/PalugaAlexandru/portofoliu-palugaalexandru/blob/main/Alexandru_Daniel_Paluga_CV_EN.pdf)
