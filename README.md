@@ -9,9 +9,9 @@ I'm a passionate **Web Developer** with experience in **WordPress**, **PHP**, **
 - 🔗 [Medical Events - Presentation](https://hcpevents.ro/)  
 - 🔗 [StartUp Agency - Presentation](https://startupagency.ro/)  
 - 🔗 [Medical Clinic - Presentation](https://awdhaestmed.com/)  
-- 🛍️ [nZEBexpert - Online Shop](https://nzebexpert.ro/)  
-- 🛍️ [MOBSOP - Online Shop](https://mobsop.ro/)  
-- 🛍️ [Irevelato - Magazin](https://irevelato.com/)
+- 🔗 [nZEBexpert - Online Shop](https://nzebexpert.ro/)  
+- 🔗 [MOBSOP - Online Shop](https://mobsop.ro/)  
+- 🔗 [Irevelato - Magazin](https://irevelato.com/)
 
 > Custom Themes • WooCommerce • ACF • Plugin Dev
 
