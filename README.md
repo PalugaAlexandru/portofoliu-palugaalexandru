@@ -278,50 +278,6 @@ This experience has given me significant exposure to **existing codebases and re
 
 ---
 
-# 💡 JavaScript Projects
-
-I also maintain several smaller JavaScript projects created for hands-on practice with application logic, DOM manipulation, browser APIs, external APIs, and local storage.
-
-### 🎯 Age Calculator
-🔗 https://palugaalexandru.github.io/age-calculator-js/
-
-Dynamic age calculation with interactive UI.
-
-### 🔢 Basic Calculator
-🔗 https://palugaalexandru.github.io/basic-calculator-js/
-
-Basic arithmetic and real-time calculations.
-
-### ⏰ Timer
-🔗 https://palugaalexandru.github.io/timer-js/
-
-Timer application with Start / Stop / Reset functionality.
-
-### 🌦️ Weather App
-🔗 https://palugaalexandru.github.io/weather-app/
-
-Weather application using external API data.
-
-### 🌗 Dark Mode Toggle
-🔗 https://palugaalexandru.github.io/dark-mode-toggle/
-
-Theme switching with localStorage persistence.
-
-### ✊ Rock Paper Scissors
-🔗 https://palugaalexandru.github.io/rock-paper-scissors-game/
-
-Browser-based game using JavaScript application logic.
-
-### 📊 Loading Bar
-🔗 https://palugaalexandru.github.io/loading-bar/
-
-Interactive loading animation built with JavaScript.
-
-**Stack:**  
-`HTML5` `CSS3` `JavaScript` `DOM` `Web APIs` `localStorage`
-
----
-
 # 🧪 Development + Software Testing
 
 I also have several years of professional experience in **Software Testing / QA**.
