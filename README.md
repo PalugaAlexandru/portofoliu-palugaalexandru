@@ -2,230 +2,363 @@
 
 ### Full-Stack Web Developer | PHP · Laravel · WordPress · WooCommerce · JavaScript · React
 
-I'm a Full-Stack Web Developer focused on building, extending, and maintaining production-ready web applications, WordPress platforms, and e-commerce solutions.
+I'm a Full-Stack Web Developer focused on building, extending, and maintaining production web applications, WordPress platforms, and e-commerce solutions.
 
-My experience includes **20+ commercial and production websites**, custom WordPress/WooCommerce development, bespoke plugins, API integrations, performance optimisation, and ongoing maintenance.
+My experience includes **20+ completed production websites and e-commerce projects**, custom WordPress plugin development, WooCommerce customisation, API integrations, maintenance, debugging, performance optimisation, and automation.
 
-Alongside WordPress development, I'm building a larger **Laravel SaaS application**, working with backend architecture, MySQL, Eloquent, role-based access, event processing, modular notification systems, and connected websites.
+Alongside WordPress development, I'm building a larger **Laravel SaaS application**, working with backend architecture, MySQL, Eloquent, role-aware access, connected websites, event processing, and modular notification systems.
 
-My background in professional **Software Testing / QA** also influences how I approach development: with a strong focus on debugging, regression prevention, reliability, and maintainable solutions.
+My professional background in **Software Testing / QA** also influences how I approach development, with a strong focus on debugging, regression prevention, reliability, edge cases, and maintainable solutions.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Backend
-- PHP
-- Laravel
-- MySQL
-- Laravel Eloquent
-- REST APIs
-- JSON
-- WordPress Plugin Development
-- WooCommerce Development
+`PHP` `Laravel` `MySQL` `Eloquent ORM` `REST API` `JSON`
 
 ### Frontend
-- JavaScript
-- React
-- HTML5
-- CSS3
-- SASS / SCSS
-- Bootstrap
-- Blade
-- Responsive Web Development
+`JavaScript` `React` `HTML5` `CSS3` `SASS / SCSS` `Bootstrap` `Blade`
 
 ### WordPress & E-commerce
-- WordPress
-- WooCommerce
-- Custom Plugin Development
-- Custom Functionality
-- WordPress Hooks & Filters
-- Custom Post Types
-- AJAX
-- REST API Integrations
-- ACF
-- Elementor
-- Performance Optimisation
-- Website Maintenance & Debugging
+`WordPress` `WooCommerce` `Custom Plugins` `Hooks & Filters` `Custom Post Types` `AJAX` `REST API` `ACF` `Elementor`
 
-### Development Tools
-- Git
-- GitHub
-- Linux
-- SSH / CLI
-- Laravel Artisan
-- Laravel Tinker
-- Postman
-- Browser DevTools
+### Development & Infrastructure
+`Git` `GitHub` `Linux` `SSH / CLI` `Laravel Artisan` `Tinker` `Postman` `Browser DevTools`
+
+### Additional Experience
+`TOTP / 2FA` `Dompdf` `Imagick` `WebP` `Cloudflare R2` `Performance Optimisation` `Debugging` `Software Testing`
 
 ---
 
-# 🚀 Selected Production Projects
+# 🚀 Production Portfolio
 
-A selection of WordPress, WooCommerce, business, medical, e-commerce, and content platforms I've worked on.
+I've worked on **20+ production websites and e-commerce projects**, covering WordPress development, WooCommerce, responsive implementation, custom functionality, integrations, maintenance, optimisation, and ongoing technical support.
 
-### 🏥 HCP Events
-🔗 https://hcpevents.ro/
-
-Medical events platform with custom WordPress functionality.
-
-### 🚀 StartUp Agency
-🔗 https://startupagency.ro/
-
-Business and agency presentation website.
-
-### 🏥 AWD H Aestmed
-🔗 https://awdhaestmed.com/
-
-Medical clinic presentation platform.
-
-### 🛒 nZEBexpert
-🔗 https://nzebexpert.ro/
-
-WooCommerce-based online store.
-
-### 🛒 MOBSOP
-🔗 https://mobsop.ro/
-
-E-commerce platform built with WordPress and WooCommerce.
-
-### 🛒 Irevelato
-🔗 https://irevelato.com/
-
-WordPress e-commerce platform.
+## 🛒 E-commerce & Digital Platforms
 
 ### 📚 Atelierul de Sine
 🔗 https://atelieruldesine.ro/
 
-WordPress and WooCommerce platform for books and digital content.
+WordPress & WooCommerce platform focused on books, digital content, marketing, and online sales.
+
+### 🏠 nZEBexpert
+🔗 https://nzebexpert.ro/
+
+WooCommerce-based e-commerce platform for specialised products and solutions.
+
+### 🛒 MOBSOP
+🔗 https://mobsop.ro/
+
+WordPress & WooCommerce e-commerce platform.
+
+### 🎨 Vernisage
+🔗 https://vernisage.ro/
+
+WordPress-based commercial website and online platform.
+
+### 🛍️ Irevelato
+🔗 https://irevelato.com/
+
+WordPress & WooCommerce e-commerce platform.
+
+### 🎨 WOW Art
+🔗 https://wowart.ro/
+
+WordPress-based commercial and creative platform.
 
 ### 🌿 Wellness Laghetto
 🔗 https://wellnesslaghetto.com/
 
-WordPress-based commercial website and online store.
+WordPress-based commercial website and e-commerce platform.
 
 ### 🛒 Lito
 🔗 https://lito.ro/
 
-WordPress / WooCommerce e-commerce project.
+WordPress & WooCommerce e-commerce project.
+
+### ✨ GoodVibe
+🔗 https://goodvibe.ro/
+
+WordPress-based commercial platform.
+
+---
+
+## 🏢 Corporate, Agency & Professional Websites
+
+### 🚀 Visionary Agency
+🔗 https://visionaryagency.ro/
+
+Agency website developed with WordPress.
+
+### 💼 StartUp Agency
+🔗 https://startupagency.ro/
+
+Business and digital agency presentation website.
+
+### 🔥 Fibroterm
+🔗 https://fibroterm.ro/
+
+Corporate WordPress website for specialised products and services.
+
+### 🏠 Fibroroof
+🔗 https://fibroroof.ro/
+
+Professional WordPress website for roofing-related products and services.
+
+### 💻 DropZero Digital Agency
+🔗 https://agency.dropzerodigital.com/
+
+Digital agency web platform.
+
+---
+
+## 🏥 Medical & Healthcare Projects
+
+### 🎟️ HCP Events
+🔗 https://hcpevents.ro/
+
+Medical events platform with WordPress-based functionality.
+
+### 💊 Pharma2Top
+🔗 https://pharma2top.ro/
+
+Professional website for the pharmaceutical and healthcare sector.
 
 ### 🏥 Pharmvision
 🔗 https://pharmvision.ro/
 
-Professional WordPress presentation website.
-
-> These are selected examples from **20+ production and commercial web projects**.
+Professional WordPress platform for the healthcare sector.
 
 ---
 
-# 🔌 Custom WordPress Plugin Development
+## 👤 Personal Brands & Content Platforms
 
-Beyond website implementation, I work on custom WordPress plugins and application-specific functionality.
+### ✍️ Lumeria
+🔗 https://lumeria.ro/
 
-### 🎟️ Events & Ticketing
-Custom event-management functionality including event workflows, ticketing, QR-based features, and WordPress integrations.
+WordPress content platform and blog.
 
-**Technologies:** PHP · WordPress · JavaScript · AJAX · MySQL · REST API
+### 👤 Anca Biriș
+🔗 https://ancabiris.ro/
 
-### 📄 Digital Contracts & Signatures
-Custom contract-management functionality including document generation and digital signature workflows.
+Personal brand and professional presentation website.
 
-**Technologies:** PHP · WordPress · JavaScript · AJAX · MySQL · Dompdf
+### 🌍 Anca Biriș International
+🔗 https://ancabiris.com/
 
-### 🔑 Plugin Licensing & Updates
-Custom licensing infrastructure for managing plugin licences and application updates.
-
-**Technologies:** PHP · WordPress · REST API · MySQL · JSON
-
-### 🛡️ Security & Authentication
-Custom WordPress security functionality, including authentication-related features and TOTP-based mechanisms.
-
-**Technologies:** PHP · WordPress · JavaScript · MySQL · TOTP
-
-### 🖼️ Image Optimisation & Storage
-Custom image-processing functionality focused on optimisation and storage workflows.
-
-**Technologies:** PHP · WordPress · Imagick · WebP · Cloudflare R2
-
-### 📚 Digital Content Management
-Custom functionality for managing structured digital content and WordPress-based libraries.
-
-**Technologies:** PHP · WordPress · JavaScript · AJAX · MySQL
+International personal brand website.
 
 ---
 
-# ⚙️ Laravel SaaS Development
+> **20 completed production projects**, alongside ongoing work involving custom WordPress plugins, maintenance, integrations, automation, performance optimisation, debugging, and technical support.
 
-I'm currently developing a larger SaaS application using **PHP and Laravel**.
+---
 
-The application includes:
+# 🔌 Custom WordPress Engineering
 
-- Multi-company architecture
-- Connected websites
+My work goes beyond standard WordPress website implementation.
+
+I've developed and contributed to custom plugins and platform-specific functionality for production projects, using **PHP, JavaScript, AJAX, REST APIs, MySQL, WordPress APIs, WooCommerce hooks, custom post types, nonces, validation, and custom database logic**.
+
+## 🎟️ ADP Creator Events Hub
+
+Custom event and ticketing functionality designed around WordPress.
+
+Functionality includes event workflows, ticket management, QR-based features, and custom WordPress integrations.
+
+**Stack:**  
+`PHP` `WordPress` `JavaScript` `AJAX` `MySQL` `REST API`
+
+---
+
+## 📄 ADP eContracts
+
+Custom contract-management functionality including document generation and digital-signature workflows.
+
+**Stack:**  
+`PHP` `WordPress` `JavaScript` `AJAX` `MySQL` `Dompdf`
+
+---
+
+## 🔑 ADP License Hub
+
+Custom licensing and update infrastructure for managing WordPress plugin licences and application updates.
+
+**Stack:**  
+`PHP` `WordPress` `REST API` `MySQL` `JSON`
+
+---
+
+## 🛡️ ADP Admin Shield
+
+Custom WordPress security and authentication functionality, including TOTP-based authentication mechanisms.
+
+**Stack:**  
+`PHP` `WordPress` `JavaScript` `MySQL` `TOTP / 2FA`
+
+---
+
+## 🖼️ ADP Creator Image Optimizer
+
+Custom image-processing and optimisation functionality with external storage workflows.
+
+**Stack:**  
+`PHP` `WordPress` `Imagick` `WebP` `Cloudflare R2`
+
+---
+
+## 📚 Atelierul de Sine Library
+
+Custom functionality for structured and protected digital-content management within WordPress.
+
+**Stack:**  
+`PHP` `WordPress` `JavaScript` `AJAX` `MySQL`
+
+---
+
+# ⚙️ Laravel SaaS Platform
+
+Alongside my WordPress work, I'm developing a larger SaaS application from the ground up using **PHP and Laravel**.
+
+The application is designed around a multi-company architecture with connected websites and includes backend systems for access control, event processing, logging, and application notifications.
+
+## 🧩 Key Engineering Areas
+
+- Multi-company application architecture
+- Connected website management
 - Role-aware access and permissions
 - Owner / accountant access flows
 - Laravel Eloquent models and relationships
-- MySQL data architecture
+- MySQL relational data architecture
 - Event processing and logging
 - Modular notification architecture
-- Notification grouping and deduplication
-- State-aware processing
-- Backend diagnostic functionality
-- Laravel Blade interfaces
-- REST / JSON-based communication
-- Linux / SSH deployment and debugging workflows
+- DTO-based notification data
+- Notification formatting and action resolution
+- Notification registry and processing engine
+- Grouping and deduplication strategies
+- Time-window and incident-based aggregation
+- Read / unread and state-aware processing
+- Contextual notification actions
+- Diagnostic and debugging functionality
+- Blade-based application interfaces
+- REST / JSON communication
+- Git-based development workflows
+- Linux / SSH development and debugging
 
-### Stack
+### SaaS Tech Stack
 
-**PHP · Laravel · Blade · Eloquent · MySQL · JavaScript · HTML · CSS · Bootstrap · Git · Linux · REST · JSON**
+`PHP` `Laravel` `Blade` `Eloquent` `MySQL` `JavaScript` `HTML5` `CSS3` `Bootstrap` `REST` `JSON` `Git` `Linux`
+
+---
+
+# 🔧 Maintenance, Integrations & Automation
+
+My production work doesn't stop when a website is launched.
+
+I also work on existing WordPress and WooCommerce platforms, including:
+
+- Ongoing website maintenance
+- Production troubleshooting
+- Bug investigation and debugging
+- WordPress and WooCommerce updates
+- Custom functionality development
+- Existing plugin customisation
+- REST API integrations
+- AJAX-based functionality
+- Custom automation
+- Database troubleshooting
+- Performance improvements
+- Image optimisation
+- Security-related improvements
+- Production support
+- Extending existing client platforms
+
+This experience has given me significant exposure to **existing codebases and real production environments**, where solutions need to work without disrupting existing functionality.
 
 ---
 
 # 💡 JavaScript Projects
 
-I also maintain several smaller JavaScript projects created for hands-on practice with DOM manipulation, APIs, application logic, and browser functionality.
+I also maintain several smaller JavaScript projects created for hands-on practice with application logic, DOM manipulation, browser APIs, external APIs, and local storage.
 
-- 🎯 [Age Calculator](https://palugaalexandru.github.io/age-calculator-js/)
-- 🔢 [Basic Calculator](https://palugaalexandru.github.io/basic-calculator-js/)
-- ⏰ [Timer](https://palugaalexandru.github.io/timer-js/)
-- 🌦️ [Weather App](https://palugaalexandru.github.io/weather-app/)
-- 🌗 [Dark Mode Toggle](https://palugaalexandru.github.io/dark-mode-toggle/)
-- ✊ [Rock Paper Scissors](https://palugaalexandru.github.io/rock-paper-scissors-game/)
-- 📊 [Loading Bar](https://palugaalexandru.github.io/loading-bar/)
+### 🎯 Age Calculator
+🔗 https://palugaalexandru.github.io/age-calculator-js/
 
-**Stack:** HTML5 · CSS3 · JavaScript · DOM · Web APIs · localStorage
+Dynamic age calculation with interactive UI.
+
+### 🔢 Basic Calculator
+🔗 https://palugaalexandru.github.io/basic-calculator-js/
+
+Basic arithmetic and real-time calculations.
+
+### ⏰ Timer
+🔗 https://palugaalexandru.github.io/timer-js/
+
+Timer application with Start / Stop / Reset functionality.
+
+### 🌦️ Weather App
+🔗 https://palugaalexandru.github.io/weather-app/
+
+Weather application using external API data.
+
+### 🌗 Dark Mode Toggle
+🔗 https://palugaalexandru.github.io/dark-mode-toggle/
+
+Theme switching with localStorage persistence.
+
+### ✊ Rock Paper Scissors
+🔗 https://palugaalexandru.github.io/rock-paper-scissors-game/
+
+Browser-based game using JavaScript application logic.
+
+### 📊 Loading Bar
+🔗 https://palugaalexandru.github.io/loading-bar/
+
+Interactive loading animation built with JavaScript.
+
+**Stack:**  
+`HTML5` `CSS3` `JavaScript` `DOM` `Web APIs` `localStorage`
 
 ---
 
-# 🧪 Development + QA
+# 🧪 Development + Software Testing
 
-I also have professional experience in Software Testing.
+I also have several years of professional experience in **Software Testing / QA**.
 
 This background complements my development work through:
 
 - Systematic debugging
 - Regression testing
+- Functional testing
 - API testing
 - Reproduction and investigation of issues
 - Edge-case identification
+- Cross-browser validation
+- UI / UX issue identification
 - Production validation
-- Quality-focused development
+- Collaboration with development teams
 
-I don't treat testing as something that happens only after development — it's part of how I build software.
+I don't treat testing as something that happens only after development — it's part of how I approach building and maintaining software.
 
 ---
 
 # 📚 Continuous Learning
 
-I continuously expand my development skills, particularly in:
+Software development is a continuous process, and I actively expand my knowledge in areas related to:
 
 - Advanced PHP & Laravel
+- Laravel architecture
 - JavaScript
 - React
 - WordPress architecture
+- WooCommerce development
+- Custom plugin development
 - REST API integrations
 - Application architecture
+- Database design
 - Performance optimisation
+- Security
 - Modern frontend development
 
 ---
@@ -234,18 +367,28 @@ I continuously expand my development skills, particularly in:
 
 I'm interested in opportunities involving:
 
-**WordPress Development · WooCommerce · Custom Plugin Development · PHP · Laravel · Full-Stack Development · API Integrations**
+**Full-Stack Development · PHP · Laravel · WordPress · WooCommerce · Custom Plugin Development · API Integrations · SaaS Development**
 
-I'm open to working with development teams, digital agencies, SaaS companies, and international remote projects.
+I'm particularly interested in working with:
+
+- Development teams
+- Digital & web agencies
+- WordPress / WooCommerce agencies
+- SaaS companies
+- Product teams
+- International remote teams
+
+I'm based in **Romania** and open to remote opportunities and international collaboration.
 
 ---
 
 # 📫 Contact
 
-📧 **Email:** palugaalexandrudaniel1990@gmail.com
+📧 **Email**  
+palugaalexandrudaniel1990@gmail.com
 
-💼 **LinkedIn:**  
+💼 **LinkedIn**  
 https://www.linkedin.com/in/alexandru-daniel-paluga/
 
-💻 **GitHub:**  
+💻 **GitHub**  
 https://github.com/palugaalexandru
